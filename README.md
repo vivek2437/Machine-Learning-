@@ -2,12 +2,6 @@
 
 This repository contains my hands-on practice with **Machine Learning** concepts, projects, and Jupyter Notebooks.
 
-## 📁 Contents
-
-- `ML_Practice.ipynb` – Core ML algorithms and exercises
-- `datasets/` – Sample datasets for testing
-- `utils.py` – Utility functions (preprocessing, metrics, etc.)
-
 ## 🚀 Topics Covered
 
 - 📊 Data Preprocessing
