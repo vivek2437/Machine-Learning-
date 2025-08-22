@@ -92,15 +92,6 @@ xgboost
 jupyter
 ```
 
-## Leaderboard Tracking
-
-I keep a simple log in `submissions/README.md` (create if not present):
-
-```text
-Date        Model                  PublicScore  Notes
-2025-08-22  LightGBM v3 tuned      0.77990      Added Title regroup + Fare bin refine
-```
-
 ## License
 
 MIT (adjust if different).
