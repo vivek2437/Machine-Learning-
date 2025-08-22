@@ -7,8 +7,8 @@ This repository contains my experiments, feature engineering steps, and models f
 <!-- SECTION START: LEADERBOARD -->
 My best public leaderboard score so far:
 
-![Kaggle Titanic Leaderboard Result (Score 0.77990)]("<img width="1678" height="574" alt="Screenshot 2025-08-22 221036" src="https://github.com/user-attachments/assets/dbfcca4c-5a74-4347-84c1-b051cb3f960a" />
-")
+![Kaggle Titanic Leaderboard Result (Score 0.77990)]<img width="1678" height="574" alt="Screenshot 2025-08-22 221036" src="https://github.com/user-attachments/assets/dbfcca4c-5a74-4347-84c1-b051cb3f960a" />
+
 
 - Public LB Score: **0.77990**
 - Position (public LB at time of upload): (see screenshot)
