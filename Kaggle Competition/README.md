@@ -15,20 +15,6 @@ My best public leaderboard score so far:
 - Continuous improvement over earlier score (e.g., 0.77272 ➜ 0.77990)
 <!-- SECTION END: LEADERBOARD -->
 
-## Repository Structure
-
-```
-.
-├── data/                # (Local / raw / processed data - usually NOT committed; consider .gitignore)
-├── notebooks/           # Jupyter notebooks for EDA and modeling
-├── src/                 # Reusable Python modules (feature engineering, training scripts)
-├── models/              # Saved model artifacts (lightweight or metadata only; large files -> use Git LFS)
-├── submissions/         # Kaggle submission CSVs
-├── screenshots/         # Images (e.g., leaderboard)
-├── requirements.txt     # Dependencies
-└── README.md
-```
-
 ## Approach Summary
 
 1. Data Cleaning
