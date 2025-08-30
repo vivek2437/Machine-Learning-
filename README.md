@@ -18,6 +18,9 @@ This repository contains my hands-on practice with **Machine Learning** concepts
 - `Matplotlib` / `Seaborn`
 - `Scikit-learn`
 - `Jupyter Notebook`
+- `TenserFlow`
+- `Pytorch`
+- `Keras`
 
 ## 🧪 How to Run
 
